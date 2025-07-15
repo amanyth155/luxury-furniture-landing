@@ -124,13 +124,10 @@ section {
   width: 270px;
 }
 .about p {
-    margin-left: 100px;
-    margin-right: 100px;
     padding: 30px;
     background-color: #f5e6cf;
     border: 1;
     border-radius: 5px;
-    height: 200px;
 }
 .testimonial {
   display: flex;
